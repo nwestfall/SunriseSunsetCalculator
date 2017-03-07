@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>com.fistbumpstudios.sunrisesunsetcalculator</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>nwestfall</authors>
+    <owners>nwestfall</owners>
+    <licenseUrl>https://github.com/nwestfall/SunriseSunsetCalculator/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/nwestfall/SunriseSunsetCalculator</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A port of https://github.com/mikereedell/sunrisesunsetlib-java for .NET PCL written in C#</description>
+    <releaseNotes>Initial Release</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>sunrise, sunset, pcl, xamarin</tags>
+  </metadata>
+</package>
