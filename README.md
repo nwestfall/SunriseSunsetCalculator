@@ -5,7 +5,10 @@ A port of https://github.com/mikereedell/sunrisesunsetlib-java for .NET PCL writ
 None
 
 ## Installation
-Coming soon (as nuget package)
+Available on [nuget](https://www.nuget.org/packages/com.fistbumpstudios.sunrisesunsetcalculator/)
+```
+Install-Package com.fistbumpstudios.sunrisesunsetcalculator
+```
 
 ## Usage
 Create an instance with a location (currently only supports local timezone due to PCL restriction of TimeZoneInfo)
