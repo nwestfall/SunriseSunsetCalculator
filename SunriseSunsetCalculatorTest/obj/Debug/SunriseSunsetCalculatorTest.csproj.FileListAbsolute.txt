@@ -1,0 +1,8 @@
+c:\users\natha\documents\visual studio 2015\Projects\SunriseSunsetCalculator\SunriseSunsetCalculatorTest\bin\Debug\SunriseSunsetCalculatorTest.dll
+c:\users\natha\documents\visual studio 2015\Projects\SunriseSunsetCalculator\SunriseSunsetCalculatorTest\bin\Debug\SunriseSunsetCalculatorTest.pdb
+c:\users\natha\documents\visual studio 2015\Projects\SunriseSunsetCalculator\SunriseSunsetCalculatorTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\natha\documents\visual studio 2015\Projects\SunriseSunsetCalculator\SunriseSunsetCalculatorTest\bin\Debug\SunriseSunsetCalculator.dll
+c:\users\natha\documents\visual studio 2015\Projects\SunriseSunsetCalculator\SunriseSunsetCalculatorTest\bin\Debug\SunriseSunsetCalculator.pdb
+c:\users\natha\documents\visual studio 2015\Projects\SunriseSunsetCalculator\SunriseSunsetCalculatorTest\obj\Debug\SunriseSunsetCalculatorTest.csprojResolveAssemblyReference.cache
+c:\users\natha\documents\visual studio 2015\Projects\SunriseSunsetCalculator\SunriseSunsetCalculatorTest\obj\Debug\SunriseSunsetCalculatorTest.dll
+c:\users\natha\documents\visual studio 2015\Projects\SunriseSunsetCalculator\SunriseSunsetCalculatorTest\obj\Debug\SunriseSunsetCalculatorTest.pdb

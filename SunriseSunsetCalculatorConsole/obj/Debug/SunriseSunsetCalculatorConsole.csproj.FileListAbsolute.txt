@@ -1,0 +1,8 @@
+c:\users\natha\documents\visual studio 2015\Projects\SunriseSunsetCalculator\SunriseSunsetCalculatorConsole\bin\Debug\SunriseSunsetCalculatorConsole.exe.config
+c:\users\natha\documents\visual studio 2015\Projects\SunriseSunsetCalculator\SunriseSunsetCalculatorConsole\bin\Debug\SunriseSunsetCalculatorConsole.exe
+c:\users\natha\documents\visual studio 2015\Projects\SunriseSunsetCalculator\SunriseSunsetCalculatorConsole\bin\Debug\SunriseSunsetCalculatorConsole.pdb
+c:\users\natha\documents\visual studio 2015\Projects\SunriseSunsetCalculator\SunriseSunsetCalculatorConsole\bin\Debug\SunriseSunsetCalculator.dll
+c:\users\natha\documents\visual studio 2015\Projects\SunriseSunsetCalculator\SunriseSunsetCalculatorConsole\bin\Debug\SunriseSunsetCalculator.pdb
+c:\users\natha\documents\visual studio 2015\Projects\SunriseSunsetCalculator\SunriseSunsetCalculatorConsole\obj\Debug\SunriseSunsetCalculatorConsole.csprojResolveAssemblyReference.cache
+c:\users\natha\documents\visual studio 2015\Projects\SunriseSunsetCalculator\SunriseSunsetCalculatorConsole\obj\Debug\SunriseSunsetCalculatorConsole.exe
+c:\users\natha\documents\visual studio 2015\Projects\SunriseSunsetCalculator\SunriseSunsetCalculatorConsole\obj\Debug\SunriseSunsetCalculatorConsole.pdb

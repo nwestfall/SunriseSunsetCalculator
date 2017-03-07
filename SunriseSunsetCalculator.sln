@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SunriseSunsetCalculator", "SunriseSunsetCalculator\SunriseSunsetCalculator.csproj", "{04B8FB13-B2A9-40AF-AD5A-94A5616A64D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SunriseSunsetCalculatorTest", "SunriseSunsetCalculatorTest\SunriseSunsetCalculatorTest.csproj", "{4E213342-8741-4BAF-8DB9-BC04DA76E9CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SunriseSunsetCalculatorConsole", "SunriseSunsetCalculatorConsole\SunriseSunsetCalculatorConsole.csproj", "{E800AC90-09A1-43FB-AED0-45B2E0456FAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04B8FB13-B2A9-40AF-AD5A-94A5616A64D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04B8FB13-B2A9-40AF-AD5A-94A5616A64D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04B8FB13-B2A9-40AF-AD5A-94A5616A64D0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{04B8FB13-B2A9-40AF-AD5A-94A5616A64D0}.Debug|x86.Build.0 = Debug|Any CPU
+		{04B8FB13-B2A9-40AF-AD5A-94A5616A64D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04B8FB13-B2A9-40AF-AD5A-94A5616A64D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04B8FB13-B2A9-40AF-AD5A-94A5616A64D0}.Release|x86.ActiveCfg = Release|Any CPU
+		{04B8FB13-B2A9-40AF-AD5A-94A5616A64D0}.Release|x86.Build.0 = Release|Any CPU
+		{4E213342-8741-4BAF-8DB9-BC04DA76E9CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E213342-8741-4BAF-8DB9-BC04DA76E9CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E213342-8741-4BAF-8DB9-BC04DA76E9CD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4E213342-8741-4BAF-8DB9-BC04DA76E9CD}.Debug|x86.Build.0 = Debug|Any CPU
+		{4E213342-8741-4BAF-8DB9-BC04DA76E9CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E213342-8741-4BAF-8DB9-BC04DA76E9CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E213342-8741-4BAF-8DB9-BC04DA76E9CD}.Release|x86.ActiveCfg = Release|Any CPU
+		{4E213342-8741-4BAF-8DB9-BC04DA76E9CD}.Release|x86.Build.0 = Release|Any CPU
+		{E800AC90-09A1-43FB-AED0-45B2E0456FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E800AC90-09A1-43FB-AED0-45B2E0456FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E800AC90-09A1-43FB-AED0-45B2E0456FAA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E800AC90-09A1-43FB-AED0-45B2E0456FAA}.Debug|x86.Build.0 = Debug|Any CPU
+		{E800AC90-09A1-43FB-AED0-45B2E0456FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E800AC90-09A1-43FB-AED0-45B2E0456FAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E800AC90-09A1-43FB-AED0-45B2E0456FAA}.Release|x86.ActiveCfg = Release|Any CPU
+		{E800AC90-09A1-43FB-AED0-45B2E0456FAA}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

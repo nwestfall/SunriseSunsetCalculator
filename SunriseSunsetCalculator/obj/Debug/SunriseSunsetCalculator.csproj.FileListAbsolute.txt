@@ -1,0 +1,5 @@
+c:\users\natha\documents\visual studio 2015\Projects\SunriseSunsetCalculator\SunriseSunsetCalculator\bin\Debug\SunriseSunsetCalculator.dll
+c:\users\natha\documents\visual studio 2015\Projects\SunriseSunsetCalculator\SunriseSunsetCalculator\bin\Debug\SunriseSunsetCalculator.pdb
+c:\users\natha\documents\visual studio 2015\Projects\SunriseSunsetCalculator\SunriseSunsetCalculator\obj\Debug\SunriseSunsetCalculator.csprojResolveAssemblyReference.cache
+c:\users\natha\documents\visual studio 2015\Projects\SunriseSunsetCalculator\SunriseSunsetCalculator\obj\Debug\SunriseSunsetCalculator.dll
+c:\users\natha\documents\visual studio 2015\Projects\SunriseSunsetCalculator\SunriseSunsetCalculator\obj\Debug\SunriseSunsetCalculator.pdb
