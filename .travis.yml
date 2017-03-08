@@ -7,10 +7,10 @@ branches:
 
 before_install:
   - sudo apt-get install nunit-console
+  - nuget restore SunriseSunsetCalculator.sln
 
 install:
   - sudo apt-get install -y gtk-sharp2
-  - nuget restore SunriseSunsetCalculator.sln
 
 script:
   - xbuild /p:Configuration=Release SunriseSunsetCalculator.sln
