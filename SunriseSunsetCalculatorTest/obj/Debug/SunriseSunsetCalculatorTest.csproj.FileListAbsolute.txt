@@ -6,3 +6,5 @@ c:\users\natha\documents\visual studio 2015\Projects\SunriseSunsetCalculator\Sun
 c:\users\natha\documents\visual studio 2015\Projects\SunriseSunsetCalculator\SunriseSunsetCalculatorTest\obj\Debug\SunriseSunsetCalculatorTest.csprojResolveAssemblyReference.cache
 c:\users\natha\documents\visual studio 2015\Projects\SunriseSunsetCalculator\SunriseSunsetCalculatorTest\obj\Debug\SunriseSunsetCalculatorTest.dll
 c:\users\natha\documents\visual studio 2015\Projects\SunriseSunsetCalculator\SunriseSunsetCalculatorTest\obj\Debug\SunriseSunsetCalculatorTest.pdb
+C:\Users\natha\documents\visual studio 2015\Projects\SunriseSunsetCalculator\SunriseSunsetCalculatorTest\bin\Debug\nunit.framework.dll
+C:\Users\natha\documents\visual studio 2015\Projects\SunriseSunsetCalculator\SunriseSunsetCalculatorTest\bin\Debug\nunit.framework.xml

@@ -5,6 +5,10 @@ branches:
   only:
     - master
 
+install:
+  - sudo apt-get install -y gtk-sharp2
+  - nuget restore SunriseSunsetCalculator.sln
+
 matrix:
   include:
     - dotnet: 1.0.0-preview2-003121

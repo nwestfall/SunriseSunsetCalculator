@@ -1,11 +1,11 @@
 ﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
 
 using SunriseSunsetCalculator;
 
 namespace SunriseSunsetCalculatorTest
 {
-    [TestClass]
+    [TestFixture]
     public class MainTest
     {
         //Albany NY location
@@ -14,7 +14,7 @@ namespace SunriseSunsetCalculatorTest
         string latStr = "42.6525790";
         string lngStr = "-73.7562320";
 
-        [TestMethod]
+        [Test]
         public void TestZenithDegrees()
         {
             Assert.AreEqual(Zenith.ASTRONOMICAL.degrees, 108);
@@ -23,7 +23,7 @@ namespace SunriseSunsetCalculatorTest
             Assert.AreEqual(Zenith.OFFICIAL.degrees, 90.8333);
         }
         
-        [TestMethod]
+        [Test]
         public void TestLocation()
         {
             Location loc = new Location(lat, lng);
@@ -37,7 +37,7 @@ namespace SunriseSunsetCalculatorTest
             Assert.AreEqual(loc.longitude, lng);
         }
 
-        [TestMethod]
+        [Test]
         public void TestOfficalSunriseSunset()
         {
             SunriseSunsetCalculator.SunriseSunsetCalculator calc = new SunriseSunsetCalculator.SunriseSunsetCalculator(new Location(lat, lng));
@@ -48,7 +48,7 @@ namespace SunriseSunsetCalculatorTest
             Console.WriteLine("Sunset: " + sunsetToday);
         }
 
-        [TestMethod]
+        [Test]
         public void TestAstronomicalSunriseSunet()
         {
             SunriseSunsetCalculator.SunriseSunsetCalculator calc = new SunriseSunsetCalculator.SunriseSunsetCalculator(new Location(lat, lng));
@@ -59,7 +59,7 @@ namespace SunriseSunsetCalculatorTest
             Console.WriteLine("Sunset: " + sunsetToday);
         }
 
-        [TestMethod]
+        [Test]
         public void TestNauticalSunriseSunet()
         {
             SunriseSunsetCalculator.SunriseSunsetCalculator calc = new SunriseSunsetCalculator.SunriseSunsetCalculator(new Location(lat, lng));
@@ -70,7 +70,7 @@ namespace SunriseSunsetCalculatorTest
             Console.WriteLine("Sunset: " + sunsetToday);
         }
 
-        [TestMethod]
+        [Test]
         public void TestCivilSunriseSunset()
         {
             SunriseSunsetCalculator.SunriseSunsetCalculator calc = new SunriseSunsetCalculator.SunriseSunsetCalculator(new Location(lat, lng));
