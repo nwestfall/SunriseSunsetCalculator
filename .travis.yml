@@ -5,13 +5,25 @@ branches:
   only:
     - master
 
+before_install:
+  - sudo apt-get install nunit-console
+
 install:
   - sudo apt-get install -y gtk-sharp2
   - nuget restore SunriseSunsetCalculator.sln
 
+script:
+  - xbuild /p:Configuration=Release SunriseSunsetCalculator.sln
+
+after_script:
+  - nunit-console SunriseSunsetCalculatorTest/bin/Release/SunriseSunsetCalculatorTest.dll
+
 matrix:
   include:
-    - dotnet: 1.0.0-preview2-003121
+    - os: linux # Ubuntu 14.04
+      dist: trusty
+      sudo: required
+      dotnet: 1.0.0-preview2-003121
       mono: none
       env: DOTNETCORE=1
     - mono: latest
