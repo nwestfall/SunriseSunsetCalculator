@@ -1,4 +1,6 @@
 # SunriseSunsetCalculator
+[![Build Status](https://travis-ci.org/nwestfall/SunriseSunsetCalculator.svg?branch=master)](https://travis-ci.org/nwestfall/SunriseSunsetCalculator)
+
 A port of https://github.com/mikereedell/sunrisesunsetlib-java for .NET PCL written in C#
 
 ## Dependencies
