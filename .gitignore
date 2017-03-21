@@ -1,2 +1,14 @@
 *.exe
 *.nupkg
+.vs/
+Debug/
+ipch/
+packages/
+*.VC
+TestResults/
+SunriseSunsetCalculator/obj/
+SunriseSunsetCalculator/bin/
+SunriseSunsetCalculatorConsole/obj/
+SunriseSunsetCalculatorConsole/bin/
+SunriseSunsetCalculatorTest/obj/*
+SunriseSunsetCalculatorTest/bin/*
